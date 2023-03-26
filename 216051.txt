@@ -1,0 +1,70 @@
+1.
+2.
+3.
+4.
+	git init
+5.
+	git remote add origin https://github.com/NikolaP454/SI_2023_lab1_216051.git
+6. 
+	git add *.md
+	git commit -m "Initial commit"
+7.
+	git add *.java
+	git commit -m "Add java class"
+8.
+	git push origin master
+9.
+	git branch bug1
+	git branch bug2
+	git branch bug3
+10.
+	git checkout bug1
+11.
+	git commit -am "Fix wrong loop for reading"
+12.
+	git checkout bug2
+13.
+	git commit -am "Fix wrong condition in filterOddNumbers"
+14.
+	git checkout bug3
+15.
+	git commit -am "Fix method sumEvenNumbers"
+16.
+	git push --all
+17.
+	git checkout master
+18.
+	git merge bug1
+		Nema conflicts
+		/
+		Fast forward
+19.
+	git push --all
+20.
+	git merge bug2
+		Nema conflicts
+		/
+		Merge made by the 'ort' strategy.
+21.
+	git push --all
+22.
+	git checkout bug3
+23.
+	git rebase master
+24.
+	git checkout master
+25.
+	git merge bug3
+		Nema conflicts
+		/
+		Fast forward
+26.
+	git push --all
+	git push origin bug3 --force
+27.
+	git add .
+	git commit -m "Final commit"
+28.
+	git push --all
+
+		

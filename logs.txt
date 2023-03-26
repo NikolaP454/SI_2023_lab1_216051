@@ -1,0 +1,66 @@
+D:\Documents\Obrazovanie\Fakultet\Semestar 4\SI\Labs\SI_2023_lab1_216051>git log
+commit 0da84b70dcace7ef4309cb9265c15cdb9a6c0e99 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:28:00 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 2dfd7c7905837c2d78886a98975ab3bdc8db90df
+Merge: 22059e0 0c9bf59
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:39:38 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 0c9bf5965565cadcfb8992248bdce5b95756d583 (origin/bug2, bug2)
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:25:05 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 22059e0ee123821f59f721e6f45e22ceb6e2fd1d (origin/bug1, bug1)
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:22:01 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 79af2c49097372e2030b06a7e807684307d26102
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:15:30 2023 +0200
+
+    Add java class
+
+commit 2f069a72c276aeb41b98955d1ac09de39671517a
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:12:49 2023 +0200
+
+    Initial commit
+Merge: 22059e0 0c9bf59
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:39:38 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 0c9bf5965565cadcfb8992248bdce5b95756d583 (origin/bug2, bug2)
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:25:05 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 22059e0ee123821f59f721e6f45e22ceb6e2fd1d (origin/bug1, bug1)
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:22:01 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 79af2c49097372e2030b06a7e807684307d26102
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:15:30 2023 +0200
+
+    Add java class
+
+commit 2f069a72c276aeb41b98955d1ac09de39671517a
+Author: NikolaP454 <97197562+NikolaP454@users.noreply.github.com>
+Date:   Sun Mar 26 17:12:49 2023 +0200
+
+    Initial commit
